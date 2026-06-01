@@ -5,7 +5,7 @@
 **Actor page:** [apify.com/johnvc/opentable-reviews-api](https://apify.com/johnvc/opentable-reviews-api?fpr=9n7kx3)
 **Input schema:** [apify.com/johnvc/opentable-reviews-api/input-schema](https://apify.com/johnvc/opentable-reviews-api/input-schema?fpr=9n7kx3)
 
-Scrape OpenTable restaurant reviews as structured JSON. Give the API a restaurant and get its reviews, each with the full review text, the dates the diner visited and posted, the diner's public profile, and the complete rating breakdown: overall, food, service, ambience, value, and noise. It is review intelligence for hospitality analytics, restaurant competitive research, and food-media sentiment analysis. If you need to book a table, use a booking Actor; if you need the review data, this is the one.
+Get OpenTable restaurant reviews as structured JSON. Give the API a restaurant and get its reviews, each with the full review text, the dates the diner visited and posted, the diner's public profile, and the complete rating breakdown: overall, food, service, ambience, value, and noise. It is review intelligence for hospitality analytics, restaurant competitive research, and food-media sentiment analysis. If you need to book a table, use a booking Actor; if you need the review data, this is the one.
 
 ## Video Walkthrough
 
