@@ -256,4 +256,10 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the OpenTable Reviews API to power restaurant review intelligence in your product or AI agent.*
 
+## Featured Tasks
+
+Ready-to-run examples on the Apify Store.
+
+- [Export OpenTable Reviews to CSV](https://apify.com/johnvc/opentable-reviews-api/examples/export-opentable-reviews-to-csv?fpr=9n7kx3)
+
 Last Updated: 2026.06.01
