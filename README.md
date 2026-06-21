@@ -262,4 +262,4 @@ Ready-to-run examples on the Apify Store.
 
 - [Export OpenTable Reviews to CSV](https://apify.com/johnvc/opentable-reviews-api/examples/export-opentable-reviews-to-csv?fpr=9n7kx3)
 
-Last Updated: 2026.06.19
+Last Updated: 2026.06.21
